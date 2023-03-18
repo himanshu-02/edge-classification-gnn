@@ -1,6 +1,4 @@
-# GSoC “GNN Tracking” Qualification Task
-
-## Task: Edge classification with pytorch geometric
+# Edge classification with pytorch geometric
 
 Train an Edge Classifier Graph Neural Network to classify the edges (given by the edge_index ) as true or false (given by the array y ). 
 The inputs to training/inference are x (the node features) and edge_features. 
